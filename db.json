@@ -5,30 +5,31 @@
         "name": "Rolex Daytona",
         "description": "The emblematic style and superlative performance of the Oyster Perpetual Cosmograph Daytona have cemented its iconic status well beyond the motor racing circuits. To mark the 60th anniversary of the watch, Rolex ensures the legend lives on by revisiting the entire range, through high-precision reworking that concerns the case and face as well as the movement. The numerous adjustments and evolutions are a reminder that the pursuit of excellence is a race with no finish line.",
         "image": "https://www.thetimeplace.co.id/wp-content/uploads/m126506-0001_modelpage_front_facing_landscape.png",
-        "price": 500000,
+        "price": 616000000,
         "stock": 10
       },
       {
         "id": 2,
         "name": "Rolex Submariner",
         "description": "The emblematic style and superlative performance of the Oyster Perpetual Cosmograph Daytona have cemented its iconic status well beyond the motor racing circuits. To mark the 60th anniversary of the watch, Rolex ensures the legend lives on by revisiting the entire range, through high-precision reworking that concerns the case and face as well as the movement. The numerous adjustments and evolutions are a reminder that the pursuit of excellence is a race with no finish line.",
-        "image": "https://example.com/images/product2.jpg",
-        "price": 750000,
+        "image": "https://www.thetimeplace.co.id/wp-content/uploads/m126619lb-0003_modelpage_front_facing_landscape.png",
+        "price": 610000000,
         "stock": 5
       },
       {
         "id": 3,
-        "name": "Rolex Air-King",
-        "description": "The emblematic style and superlative performance of the Oyster Perpetual Cosmograph Daytona have cemented its iconic status well beyond the motor racing circuits. To mark the 60th anniversary of the watch, Rolex ensures the legend lives on by revisiting the entire range, through high-precision reworking that concerns the case and face as well as the movement. The numerous adjustments and evolutions are a reminder that the pursuit of excellence is a race with no finish line.",        "image": "https://example.com/images/product3.jpg",
-        "price": 250000,
+        "name": "Rolex Sea-Dweller",
+        "description": "Symbols of the long shared history between Rolex and deep-sea explorers, the Sea-Dweller, Rolex Deepsea and Deepsea Challenge models are ultra-resistant professional divers’ watches. The Sea-Dweller, launched in 1967, is waterproof to a depth of 1,220 metres (4,000 feet) – 610 metres (2,000 feet) originally. The Rolex Deepsea, unveiled in 2008, withstand the pressure at a depth of 3900 metres (12,800 feet), and the Deepsea Challenge, presented in 2022, can reach a depth of 11,000 metres (36,090 feet).",        
+         "image": "https://www.thetimeplace.co.id/wp-content/uploads/m126603-0001_modelpage_front_facing_landscape.png",
+        "price": 250000000,
         "stock": 20
       },
       {
         "id": 4,
-        "name": "Rolex Day-Date",
-        "description": "The emblematic style and superlative performance of the Oyster Perpetual Cosmograph Daytona have cemented its iconic status well beyond the motor racing circuits. To mark the 60th anniversary of the watch, Rolex ensures the legend lives on by revisiting the entire range, through high-precision reworking that concerns the case and face as well as the movement. The numerous adjustments and evolutions are a reminder that the pursuit of excellence is a race with no finish line.",
-        "image": "https://example.com/images/product3.jpg",
-        "price": 250000,
+        "name": "Rolex Yacht-Master",
+        "description": "Light and robust, the new Oyster Perpetual Yacht-Master 42 in RLX titanium is the ally of those seeking freedom of movement. Especially suited to the demands and pressures of competitive sailing, it puts watchmaking excellence at the service of sporting performance. The Yacht-Master 42 is the second watch in RLX titanium released by Rolex after the Oyster Perpetual Deepsea Challenge, confirming that lightness is a quality to be taken seriously.",
+        "image": "https://www.thetimeplace.co.id/wp-content/uploads/m226627-0001_modelpage_front_facing_landscape.png",
+        "price": 212000000,
         "stock": 20
       }
     ],    
