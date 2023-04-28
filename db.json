@@ -11,7 +11,7 @@
       {
         "id": 2,
         "name": "Rolex Submariner",
-        "description": "Jam tangan wanita dengan tampilan feminim dan strap stainless steel",
+        "description": "The emblematic style and superlative performance of the Oyster Perpetual Cosmograph Daytona have cemented its iconic status well beyond the motor racing circuits. To mark the 60th anniversary of the watch, Rolex ensures the legend lives on by revisiting the entire range, through high-precision reworking that concerns the case and face as well as the movement. The numerous adjustments and evolutions are a reminder that the pursuit of excellence is a race with no finish line.",
         "image": "https://example.com/images/product2.jpg",
         "price": 750000,
         "stock": 5
@@ -19,42 +19,36 @@
       {
         "id": 3,
         "name": "Rolex Air-King",
-        "description": "Jam tangan anak dengan tampilan lucu dan strap karet",
-        "image": "https://example.com/images/product3.jpg",
+        "description": "The emblematic style and superlative performance of the Oyster Perpetual Cosmograph Daytona have cemented its iconic status well beyond the motor racing circuits. To mark the 60th anniversary of the watch, Rolex ensures the legend lives on by revisiting the entire range, through high-precision reworking that concerns the case and face as well as the movement. The numerous adjustments and evolutions are a reminder that the pursuit of excellence is a race with no finish line.",        "image": "https://example.com/images/product3.jpg",
         "price": 250000,
         "stock": 20
       },
       {
         "id": 4,
         "name": "Rolex Day-Date",
-        "description": "Jam tangan anak dengan tampilan lucu dan strap karet",
+        "description": "The emblematic style and superlative performance of the Oyster Perpetual Cosmograph Daytona have cemented its iconic status well beyond the motor racing circuits. To mark the 60th anniversary of the watch, Rolex ensures the legend lives on by revisiting the entire range, through high-precision reworking that concerns the case and face as well as the movement. The numerous adjustments and evolutions are a reminder that the pursuit of excellence is a race with no finish line.",
         "image": "https://example.com/images/product3.jpg",
         "price": 250000,
         "stock": 20
       }
-    ],    "Brands": [
+    ],    
+    
+    "Brands": [
       {
         "id": 1,
         "Brand": "Rolex"
       },
       {
+        "id": 2,
         "Brand": "Audemars Piguet"
       },
       {
         "id": 3,
-        "name": "Richard Mille",
-        "description": "Jam tangan anak dengan tampilan lucu dan strap karet",
-        "image": "https://example.com/images/product3.jpg",
-        "price": 250000,
-        "stock": 20
+        "Brand": "Swatch"
       },
       {
         "id": 4,
-        "name": "Swatch",
-        "description": "Jam tangan anak dengan tampilan lucu dan strap karet",
-        "image": "https://example.com/images/product3.jpg",
-        "price": 250000,
-        "stock": 20
+        "Brand": "Tag Heuer"
       }
     ]
 }
