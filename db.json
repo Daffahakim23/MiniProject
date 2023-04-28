@@ -31,6 +31,22 @@
         "image": "https://www.thetimeplace.co.id/wp-content/uploads/m226627-0001_modelpage_front_facing_landscape.png",
         "price": 212000000,
         "stock": 20
+      },
+      {
+        "id": 5,
+        "name": "Rolex 1908",
+        "description": "Elegant, classic and decidedly contemporary, the Perpetual 1908 immortalizes Rolex’s age-long daring spirit. Inheriting the brand’s historic codes as much as its numerous innovations in watchmaking, the watch marks a new milestone in the brand’s pursuit of excellence. The conception and creation of this new model testify to the Manufacture’s comprehensive in-house expertise. Inspired by an Oyster Perpetual from 1931, this completely new timepiece responds to the challenge of a slimmer watch according to the Rolex canon and heralds the arrival of the Perpetual collection, which redefines the traditional wristwatch in the avant-garde spirit of the brand. The name ‘1908’ is a reference to the date the ‘Rolex’ trademark was officially registered in Switzerland. Promising superlative performance, the 1908 carves out a place for itself as a Rolex imbued with tradition yet exuding modernity.",
+        "image": "https://www.thetimeplace.co.id/wp-content/uploads/m52508-0006_modelpage_front_facing_landscape.png",
+        "price": 340000000,
+        "stock": 20
+      },
+      {
+        "id": 6,
+        "name": "Rolex GMT-Master",
+        "description": "Allowing its wearer to track the progress of time in another time zone, the GMT-Master II highlights our connection to the world. It is now available in two new versions – 18 ct yellow gold and yellow Rolesor – with a Cerachrom bezel insert in grey and black ceramic, an entirely new colour combination. Exemplary craftsmanship is borne out by the choice of materials and precision of the finishes, which come together to show the watch in its best light. The harmonious contrast between the gleaming gold of the Jubilee bracelet and the two-colour bezel with its dark, muted tones evokes the path of the sun and the alternation of day and night.",
+        "image": "https://www.thetimeplace.co.id/wp-content/uploads/m126719blro-0002_modelpage_front_facing_landscape.png",
+        "price": 650000000,
+        "stock": 20
       }
     ]
 }
