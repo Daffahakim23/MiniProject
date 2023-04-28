@@ -32,24 +32,5 @@
         "price": 212000000,
         "stock": 20
       }
-    ],    
-    
-    "Brands": [
-      {
-        "id": 1,
-        "Brand": "Rolex"
-      },
-      {
-        "id": 2,
-        "Brand": "Audemars Piguet"
-      },
-      {
-        "id": 3,
-        "Brand": "Swatch"
-      },
-      {
-        "id": 4,
-        "Brand": "Tag Heuer"
-      }
     ]
 }
