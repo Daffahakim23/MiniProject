@@ -1,52 +1,84 @@
 {
-    "Products": [
-      {
-        "id": 1,
-        "name": "Rolex Daytona",
-        "description": "The emblematic style and superlative performance of the Oyster Perpetual Cosmograph Daytona have cemented its iconic status well beyond the motor racing circuits. To mark the 60th anniversary of the watch, Rolex ensures the legend lives on by revisiting the entire range, through high-precision reworking that concerns the case and face as well as the movement. The numerous adjustments and evolutions are a reminder that the pursuit of excellence is a race with no finish line.",
-        "image": "https://www.thetimeplace.co.id/wp-content/uploads/m126506-0001_modelpage_front_facing_landscape.png",
-        "price": 616000000,
-        "stock": 10
-      },
-      {
-        "id": 2,
-        "name": "Rolex Submariner",
-        "description": "The emblematic style and superlative performance of the Oyster Perpetual Cosmograph Daytona have cemented its iconic status well beyond the motor racing circuits. To mark the 60th anniversary of the watch, Rolex ensures the legend lives on by revisiting the entire range, through high-precision reworking that concerns the case and face as well as the movement. The numerous adjustments and evolutions are a reminder that the pursuit of excellence is a race with no finish line.",
-        "image": "https://www.thetimeplace.co.id/wp-content/uploads/m126619lb-0003_modelpage_front_facing_landscape.png",
-        "price": 610000000,
-        "stock": 5
-      },
-      {
-        "id": 3,
-        "name": "Rolex Sea-Dweller",
-        "description": "Symbols of the long shared history between Rolex and deep-sea explorers, the Sea-Dweller, Rolex Deepsea and Deepsea Challenge models are ultra-resistant professional divers’ watches. The Sea-Dweller, launched in 1967, is waterproof to a depth of 1,220 metres (4,000 feet) – 610 metres (2,000 feet) originally. The Rolex Deepsea, unveiled in 2008, withstand the pressure at a depth of 3900 metres (12,800 feet), and the Deepsea Challenge, presented in 2022, can reach a depth of 11,000 metres (36,090 feet).",        
-         "image": "https://www.thetimeplace.co.id/wp-content/uploads/m126603-0001_modelpage_front_facing_landscape.png",
-        "price": 250000000,
-        "stock": 20
-      },
-      {
-        "id": 4,
-        "name": "Rolex Yacht-Master",
-        "description": "Light and robust, the new Oyster Perpetual Yacht-Master 42 in RLX titanium is the ally of those seeking freedom of movement. Especially suited to the demands and pressures of competitive sailing, it puts watchmaking excellence at the service of sporting performance. The Yacht-Master 42 is the second watch in RLX titanium released by Rolex after the Oyster Perpetual Deepsea Challenge, confirming that lightness is a quality to be taken seriously.",
-        "image": "https://www.thetimeplace.co.id/wp-content/uploads/m226627-0001_modelpage_front_facing_landscape.png",
-        "price": 212000000,
-        "stock": 20
-      },
-      {
-        "id": 5,
-        "name": "Rolex 1908",
-        "description": "Elegant, classic and decidedly contemporary, the Perpetual 1908 immortalizes Rolex’s age-long daring spirit. Inheriting the brand’s historic codes as much as its numerous innovations in watchmaking, the watch marks a new milestone in the brand’s pursuit of excellence. The conception and creation of this new model testify to the Manufacture’s comprehensive in-house expertise. Inspired by an Oyster Perpetual from 1931, this completely new timepiece responds to the challenge of a slimmer watch according to the Rolex canon and heralds the arrival of the Perpetual collection, which redefines the traditional wristwatch in the avant-garde spirit of the brand. The name ‘1908’ is a reference to the date the ‘Rolex’ trademark was officially registered in Switzerland. Promising superlative performance, the 1908 carves out a place for itself as a Rolex imbued with tradition yet exuding modernity.",
-        "image": "https://www.thetimeplace.co.id/wp-content/uploads/m52508-0006_modelpage_front_facing_landscape.png",
-        "price": 340000000,
-        "stock": 20
-      },
-      {
-        "id": 6,
-        "name": "Rolex GMT-Master",
-        "description": "Allowing its wearer to track the progress of time in another time zone, the GMT-Master II highlights our connection to the world. It is now available in two new versions – 18 ct yellow gold and yellow Rolesor – with a Cerachrom bezel insert in grey and black ceramic, an entirely new colour combination. Exemplary craftsmanship is borne out by the choice of materials and precision of the finishes, which come together to show the watch in its best light. The harmonious contrast between the gleaming gold of the Jubilee bracelet and the two-colour bezel with its dark, muted tones evokes the path of the sun and the alternation of day and night.",
-        "image": "https://www.thetimeplace.co.id/wp-content/uploads/m126719blro-0002_modelpage_front_facing_landscape.png",
-        "price": 650000000,
-        "stock": 20
-      }
-    ]
+  "Products": [
+    {
+      "id": 1,
+      "productName": "Rolex Daytona",
+      "description": "The emblematic style and superlative performance of the Oyster Perpetual Cosmograph Daytona have cemented its iconic status well beyond the motor racing circuits. To mark the 60th anniversary of the watch, Rolex ensures the legend lives on by revisiting the entire range, through high-precision reworking that concerns the case and face as well as the movement. The numerous adjustments and evolutions are a reminder that the pursuit of excellence is a race with no finish line.",
+      "image": "https://www.thetimeplace.co.id/wp-content/uploads/m126506-0001_modelpage_front_facing_landscape.png",
+      "price": 616000000,
+      "stock": 10
+    },
+    {
+      "id": 2,
+      "productName": "Rolex Submariner",
+      "description": "The emblematic style and superlative performance of the Oyster Perpetual Cosmograph Daytona have cemented its iconic status well beyond the motor racing circuits. To mark the 60th anniversary of the watch, Rolex ensures the legend lives on by revisiting the entire range, through high-precision reworking that concerns the case and face as well as the movement. The numerous adjustments and evolutions are a reminder that the pursuit of excellence is a race with no finish line.",
+      "image": "https://www.thetimeplace.co.id/wp-content/uploads/m126619lb-0003_modelpage_front_facing_landscape.png",
+      "price": 610000000,
+      "stock": 5
+    },
+    {
+      "id": 3,
+      "productName": "Rolex Sea-Dweller",
+      "description": "Symbols of the long shared history between Rolex and deep-sea explorers, the Sea-Dweller, Rolex Deepsea and Deepsea Challenge models are ultra-resistant professional divers’ watches. The Sea-Dweller, launched in 1967, is waterproof to a depth of 1,220 metres (4,000 feet) – 610 metres (2,000 feet) originally. The Rolex Deepsea, unveiled in 2008, withstand the pressure at a depth of 3900 metres (12,800 feet), and the Deepsea Challenge, presented in 2022, can reach a depth of 11,000 metres (36,090 feet).",        
+       "image": "https://www.thetimeplace.co.id/wp-content/uploads/m126603-0001_modelpage_front_facing_landscape.png",
+      "price": 250000000,
+      "stock": 20
+    },
+    {
+      "id": 4,
+      "productName": "Rolex Yacht-Master",
+      "description": "Light and robust, the new Oyster Perpetual Yacht-Master 42 in RLX titanium is the ally of those seeking freedom of movement. Especially suited to the demands and pressures of competitive sailing, it puts watchmaking excellence at the service of sporting performance. The Yacht-Master 42 is the second watch in RLX titanium released by Rolex after the Oyster Perpetual Deepsea Challenge, confirming that lightness is a quality to be taken seriously.",
+      "image": "https://www.thetimeplace.co.id/wp-content/uploads/m226627-0001_modelpage_front_facing_landscape.png",
+      "price": 212000000,
+      "stock": 20
+    },
+    {
+      "id": 5,
+      "productName": "Rolex 1908",
+      "description": "Elegant, classic and decidedly contemporary, the Perpetual 1908 immortalizes Rolex’s age-long daring spirit. Inheriting the brand’s historic codes as much as its numerous innovations in watchmaking, the watch marks a new milestone in the brand’s pursuit of excellence. The conception and creation of this new model testify to the Manufacture’s comprehensive in-house expertise. Inspired by an Oyster Perpetual from 1931, this completely new timepiece responds to the challenge of a slimmer watch according to the Rolex canon and heralds the arrival of the Perpetual collection, which redefines the traditional wristwatch in the avant-garde spirit of the brand. The name ‘1908’ is a reference to the date the ‘Rolex’ trademark was officially registered in Switzerland. Promising superlative performance, the 1908 carves out a place for itself as a Rolex imbued with tradition yet exuding modernity.",
+      "image": "https://www.thetimeplace.co.id/wp-content/uploads/m52508-0006_modelpage_front_facing_landscape.png",
+      "price": 340000000,
+      "stock": 20
+    },
+    {
+      "id": 6,
+      "productName": "Rolex GMT-Master",
+      "description": "Allowing its wearer to track the progress of time in another time zone, the GMT-Master II highlights our connection to the world. It is now available in two new versions – 18 ct yellow gold and yellow Rolesor – with a Cerachrom bezel insert in grey and black ceramic, an entirely new colour combination. Exemplary craftsmanship is borne out by the choice of materials and precision of the finishes, which come together to show the watch in its best light. The harmonious contrast between the gleaming gold of the Jubilee bracelet and the two-colour bezel with its dark, muted tones evokes the path of the sun and the alternation of day and night.",
+      "image": "https://www.thetimeplace.co.id/wp-content/uploads/m126719blro-0002_modelpage_front_facing_landscape.png",
+      "price": 650000000,
+      "stock": 20
+    }
+  ],
+  "Brands": [
+    {
+      "id": 10,
+      "brandName": "Rolex",
+      "brandLogo": "https://i.pinimg.com/564x/69/db/b9/69dbb9950d576da6cbc88b6fd29af0b5.jpg"
+    },
+    {
+      "id": 20,
+      "brandName": "Audemars Piguet",
+      "brandLogo": "https://i.pinimg.com/564x/31/1a/e3/311ae3e3bf5e9f515b2d25ccc6f92bce.jpg"
+    },
+    {
+      "id": 30,
+      "Brandname": "Hublot",
+      "brandLogo": "https://i.pinimg.com/564x/e3/4b/ba/e34bba96f9b1fef1b305dd8b8fc83315.jpg"
+    },
+    {
+      "id": 40,
+      "brandName": "Patek Philippe",
+      "brandLogo": "https://i.pinimg.com/564x/31/d9/73/31d9730d75a9c19f526dbf17804b07b1.jpg"
+    },
+    {
+      "id": 50,
+      "brandName": "Tag Heuer",
+      "brandLogo": "https://i.pinimg.com/564x/40/49/77/4049773de0437dd15dfcd4c461058850.jpg"
+    },
+    {
+      "id": 60,
+      "brandName": "Richard Mille",
+      "brandLogo" : "https://i.pinimg.com/564x/8b/45/6b/8b456bae1c00770335aff660f38c55fc.jpg"
+    }
+  ]
 }
