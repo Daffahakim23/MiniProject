@@ -48,14 +48,13 @@
       "price": 650000000,
       "stock": 20
     },
-        {
+    {
       "id": 11,
       "productName": "Richard Mille 011 Black",
       "description": "Skeletonized titanium treated with a black DLC coating with bridges hand-painted in the colors of the German flag, Skeletonized hands with luminescent material, Sapphire crystal and see-through caseback",
       "price": 340000000,
       "stock": 20
-    },
-           
+    }      
   ],
   "Brands": [
     {
