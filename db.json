@@ -47,7 +47,18 @@
       "image": "https://www.thetimeplace.co.id/wp-content/uploads/m126719blro-0002_modelpage_front_facing_landscape.png",
       "price": 650000000,
       "stock": 20
-    }
+    },
+        {
+      "id": 11,
+      "productName": "Richard Mille 011 Black",
+      "description": "Skeletonized titanium treated with a black DLC coating with bridges hand-painted in the colors of the German flag.
+Skeletonized hands with luminescent material.
+Sapphire crystal and see-through caseback",
+      "image": "https://imagedelivery.net/lyg2LuGO05OELPt1DKJTnw/d671437b-92ea-461c-10bf-b85139bf5900/public",
+      "price": 340000000,
+      "stock": 20
+    },
+           
   ],
   "Brands": [
     {
@@ -57,28 +68,28 @@
     },
     {
       "id": 20,
-      "brandName": "Audemars Piguet",
-      "brandLogo": "https://i.pinimg.com/564x/31/1a/e3/311ae3e3bf5e9f515b2d25ccc6f92bce.jpg"
+      "brandName": "Richard Mille",
+      "brandLogo" : "https://i.pinimg.com/564x/8b/45/6b/8b456bae1c00770335aff660f38c55fc.jpg"
     },
     {
       "id": 30,
-      "Brandname": "Hublot",
-      "brandLogo": "https://i.pinimg.com/564x/e3/4b/ba/e34bba96f9b1fef1b305dd8b8fc83315.jpg"
+      "brandName": "Audemars Piguet",
+      "brandLogo": "https://i.pinimg.com/564x/31/1a/e3/311ae3e3bf5e9f515b2d25ccc6f92bce.jpg"
     },
     {
       "id": 40,
       "brandName": "Patek Philippe",
       "brandLogo": "https://i.pinimg.com/564x/31/d9/73/31d9730d75a9c19f526dbf17804b07b1.jpg"
     },
-    {
+        {
       "id": 50,
       "brandName": "Tag Heuer",
       "brandLogo": "https://i.pinimg.com/564x/40/49/77/4049773de0437dd15dfcd4c461058850.jpg"
     },
     {
       "id": 60,
-      "brandName": "Richard Mille",
-      "brandLogo" : "https://i.pinimg.com/564x/8b/45/6b/8b456bae1c00770335aff660f38c55fc.jpg"
+      "Brandname": "Hublot",
+      "brandLogo": "https://i.pinimg.com/564x/e3/4b/ba/e34bba96f9b1fef1b305dd8b8fc83315.jpg"
     }
   ]
 }
