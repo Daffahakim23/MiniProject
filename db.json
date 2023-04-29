@@ -12,7 +12,6 @@
       "Water Resistance" : "100 M/ 330 feet",
       "Reference" : "1265006",
       "Bracelet" : "Jubilee, five-piece links"
-      "stock": "10"
     },
     {
       "id": 2,
@@ -26,7 +25,6 @@
       "Water Resistance" : "300 M/ 1000 feet",
       "Reference" : "124060",
       "Bracelet" : "Jubilee, five-piece links"
-      "stock": "5"
     },
     {
       "id": 3,
@@ -40,7 +38,6 @@
       "Water Resistance" : "1.220 M/ 4000 feet",
       "Reference" : "126603",
       "Bracelet" : "Jubilee, five-piece links"
-      "stock": "20"
     },
     {
       "id": 4,
@@ -54,7 +51,6 @@
       "Water Resistance" : "50 M/ 165 feet",
       "Reference" : "52508",
       "Bracelet" : "Leather Strap"
-      "stock": "20"
     },
     {
       "id": 5,
@@ -68,7 +64,6 @@
       "Water Resistance" : "100 M/ 330 feet",
       "Reference" : "126713GRNR",
       "Bracelet" : "Jubilee, five-piece links"      
-      "stock": "20"
     },
     {
       "id": 6,
@@ -82,7 +77,6 @@
       "Water Resistance" : "30 M",
       "Reference" : "RM67-02 FQ CA Alexander Zverev",
       "Bracelet" : "Black textile"      
-      "stock": "20"
     },
     {
       "id": 7,
@@ -96,7 +90,6 @@
       "Water Resistance" : "30 M",
       "Reference" : "RM67-02 FQ Mutaz Essa Barshim",
       "Bracelet" : "Black textile"      
-      "stock": "20"
     },
     {
       "id": 8,
@@ -110,7 +103,6 @@
       "Water Resistance" : "30 M",
       "Reference" : "RM56-02",
       "Bracelet" : "Rubber"      
-      "stock": "20"
     },
     {
       "id": 9,
@@ -124,7 +116,6 @@
       "Water Resistance" : "50 M",
       "Reference" : "RM11-03 RG TI",
       "Bracelet" : "Black rubber. Titanium double folding buckle."      
-      "stock": "20"
     },
     {
       "id": 11,
@@ -138,7 +129,6 @@
       "Water Resistance" : "100 M",
       "Reference" : "CAR2C90.FC6341",
       "Bracelet" : "Leather Strap"      
-      "stock": "20"
     },
     {
       "id": 12,
@@ -152,7 +142,6 @@
       "Water Resistance" : "100 M",
       "Reference" : "CAR2A1T.FT6052",
       "Bracelet" : "Rubber"      
-      "stock": "20"
     }
   ],
   "Brands": [
