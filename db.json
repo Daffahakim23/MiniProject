@@ -66,58 +66,6 @@
       "Bracelet" : "Jubilee, five-piece links"      
     },
     {
-      "id": 6,
-      "productName": "RICHARD MILLE RM67-02",
-      "description": "Skeletonized titanium treated with a black DLC coating with bridges hand-painted in the colors of the German flag, Skeletonized hands with luminescent material, Sapphire crystal and see-through caseback.",
-      "image": "https://imagedelivery.net/lyg2LuGO05OELPt1DKJTnw/d671437b-92ea-461c-10bf-b85139bf5900/public",
-      "IDNprice": "Rp.4.842.271.516,02",
-      "USAprice": "$330.00,00",
-      "Diameter" : "47.25 x 38.70 x 7.80 mm",
-      "Material" : "Quartz TPT® and Carbon TPT®",
-      "Water Resistance" : "30 M",
-      "Reference" : "RM67-02 FQ CA Alexander Zverev",
-      "Bracelet" : "Black textile"      
-    },
-    {
-      "id": 7,
-      "productName": "RICHARD MILLE RM67-02",
-      "description": "Openworked. Grade 5 titanium, hand-decorated. Sapphire crystals front and back.",
-      "image": "https://imagedelivery.net/lyg2LuGO05OELPt1DKJTnw/a3111a85-9142-446a-d24c-da44dce4f400/public",
-      "IDNprice": "Rp.4.842.271.516,02",
-      "USAprice": "$330.00,00",
-      "Diameter" : "38.7 x 47.52 mm",
-      "Material" : "Quartz TPT® and Carbon TPT®",
-      "Water Resistance" : "30 M",
-      "Reference" : "RM67-02 FQ Mutaz Essa Barshim",
-      "Bracelet" : "Black textile"      
-    },
-    {
-      "id": 8,
-      "productName": "RICHARD MILLE RM56-02",
-      "description": "Sapphire crystal glareproofed on both sides (1.2mm thick). Titanium flange with black galvanic treatment and index filled with an approved luminescent material.",
-      "image": "https://imagedelivery.net/lyg2LuGO05OELPt1DKJTnw/815b252a-ba72-4414-508d-8f60d1ed7d00/public",
-      "IDNprice": "Rp.52.900.500.000,00",
-      "USAprice": "$360.516.029,35",
-      "Diameter" : "42 mm",
-      "Material" : "Sapphire",
-      "Water Resistance" : "30 M",
-      "Reference" : "RM56-02",
-      "Bracelet" : "Rubber"      
-    },
-    {
-      "id": 9,
-      "productName": "RICHARD MILLE RM11-03",
-      "description": "Sapphire crystal glareproofed on both sides (1.2mm thick). Titanium flange with black galvanic treatment and index filled with an approved luminescent material.",
-      "image": "https://imagedelivery.net/lyg2LuGO05OELPt1DKJTnw/815b252a-ba72-4414-508d-8f60d1ed7d00/public",
-      "IDNprice": "Rp.2.650.000.000,02",
-      "USAprice": "$180.597,06",
-      "Diameter" : "30.25 x 38.45 mm",
-      "Material" : "Glucydur®, 4 arms, moment of inertia 4.8 mg•cm2, angle of lift 53º",
-      "Water Resistance" : "50 M",
-      "Reference" : "RM11-03 RG TI",
-      "Bracelet" : "Black rubber. Titanium double folding buckle."      
-    },
-    {
       "id": 11,
       "productName": "TAG HEUER CARRERA CALIBRE 1887",
       "description": "The classic yet contemporary sports watch inspired by Motor Racing.",
