@@ -90,6 +90,19 @@
       "Water Resistance" : "100 M",
       "Reference" : "CAR2A1T.FT6052",
       "Bracelet" : "Rubber"      
+    },
+    {
+      "id": 12,
+      "productName": "TAG HEUER CARRERA CALIBRE HEUER 01",
+      "description": "The classic yet contemporary sports watch inspired by Motor Racing.",
+      "image": "https://www.thetimeplace.co.id/wp-content/uploads/CAR2A1T_FT6052_0913.png",
+      "IDNprice": "Rp.118.400.500,89",
+      "USAprice": "$8,070",
+      "Diameter" : "45 mm",
+      "Material" : "Polished and fine brushed steel lugs with fine brushed black titanium carbide coated end-piece",
+      "Water Resistance" : "100 M",
+      "Reference" : "CAR2A1T.FT6052",
+      "Bracelet" : "Rubber"      
     }
   ],
   "Brands": [
@@ -100,28 +113,28 @@
     },
     {
       "id": 20,
-      "brandName": "Richard Mille",
+      "brandName": "Audemars Piguet",
       "brandLogo" : "https://specials-images.forbesimg.com/imageserve/631a3f631aa6ae0d6ad7038c/400x0.jpg?cropX1=753&cropX2=1294&cropY1=379&cropY2=920"
     },
     {
       "id": 30,
-      "brandName": "Audemars Piguet",
+      "brandName": "Patek Phillipe",
       "brandLogo": "https://trackoftimeblog.files.wordpress.com/2018/03/patek-logo.jpg?w=253&h=253"
     },
     {
       "id": 40,
-      "brandName": "Patek Philippe",
+      "brandName": "Tag Heuer",
       "brandLogo": "https://github.com/Daffahakim23/nyoba/blob/main/tag.png?raw=true"
     },
     {
       "id": 50,
-      "brandName": "Tag Heuer",
+      "brandName": "Hublot",
       "brandLogo": "https://github.com/Daffahakim23/nyoba/blob/main/hublot.png?raw=true"
     },
     {
       "id": 60,
-      "Brandname": "Hublot",
-      "brandLogo": "https://i.pinimg.com/564x/e3/4b/ba/e34bba96f9b1fef1b305dd8b8fc83315.jpg"
+      "Brandname": "Omega",
+      "brandLogo": "https://github.com/Daffahakim23/nyoba/blob/main/omega.png?raw=true"
     }
   ]
 }
