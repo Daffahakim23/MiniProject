@@ -63,7 +63,7 @@
       "Material" : "Yellow Rolesor - combination of Oystersteel and yellow gold",
       "Water Resistance" : "100 M/ 330 feet",
       "Reference" : "126713GRNR",
-      "Bracelet" : "Jubilee, five-piece links"      
+      "Bracelet" : "Jubilee, five-piece links"
     },
     {
       "id": 6,
@@ -76,7 +76,7 @@
       "Material" : "Quartz TPT® and Carbon TPT®",
       "Water Resistance" : "30 M",
       "Reference" : "RM67-02 FQ CA Alexander Zverev",
-      "Bracelet" : "Black textile"      
+      "Bracelet" : "Black textile"
     },
     {
      "id": 7,
@@ -102,9 +102,8 @@
       "Material" : "Sapphire",
       "Water Resistance" : "30 M",
       "Reference" : "RM56-02",
-      "Bracelet" : "Rubber"   
+      "Bracelet" : "Rubber"
     },
-
     {
       "id": 9,
       "productName": "HUBLOT BIG BANG",
@@ -116,8 +115,8 @@
       "Material" : "Satin-finished and Polished Black Ceramic with 6 H-shaped Titanium Screws",
       "Water Resistance" : "100 M",
       "Reference" : "456.CX.0170.CX",
-      "Bracelet" : "Ceramic Bracelet"      
-    },    
+      "Bracelet" : "Ceramic Bracelet"
+    },
     {
       "id": 13,
       "productName": "ROLEX SKY-DWELLER",
@@ -129,7 +128,7 @@
       "Material" : "18 ct white gold",
       "Water Resistance" : "100 metres / 330 feet",
       "Reference" : "336239",
-      "Bracelet" : "Oysterflex"      
+      "Bracelet" : "Oysterflex"
     }
   ],
   "Brands": [
